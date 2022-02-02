@@ -7,7 +7,7 @@ We use python programming language to build it. To design user interface we use 
 
 This project is done in 4 stages.
 1. In first stage we collect data set here we use TMDB 5000 MOVIES dataset and then we perform data preprocessing.
-2. In 2nd we build a model using ml. 
+2. In 2nd stage we build a model using ml. 
 3. In 3rd stage we build a website
 4.  In the last stages we deploy this site with heroku deployment.
 
